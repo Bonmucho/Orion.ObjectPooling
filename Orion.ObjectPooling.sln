@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion.ObjectPooling", "Orion.ObjectPooling\Orion.ObjectPooling.csproj", "{FD5F5848-BF1D-4455-AF60-39E29B002348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion.ObjectPooling.Tests", "Orion.ObjectPooling.Tests\Orion.ObjectPooling.Tests.csproj", "{7090E33A-614D-4D51-A72F-5C48F29FFABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5F5848-BF1D-4455-AF60-39E29B002348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5F5848-BF1D-4455-AF60-39E29B002348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5F5848-BF1D-4455-AF60-39E29B002348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5F5848-BF1D-4455-AF60-39E29B002348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7090E33A-614D-4D51-A72F-5C48F29FFABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7090E33A-614D-4D51-A72F-5C48F29FFABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7090E33A-614D-4D51-A72F-5C48F29FFABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7090E33A-614D-4D51-A72F-5C48F29FFABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
